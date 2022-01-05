@@ -1,4 +1,8 @@
 # PolSAR CVNN
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5821229.svg)](https://doi.org/10.5281/zenodo.5821229)
+[![PyPI version](https://badge.fury.io/py/cvnn.svg)](https://badge.fury.io/py/cvnn)
+
 PolSAR classification / segmentation using complex-valued neural networks.
 
 ## Code usage
