@@ -5,6 +5,26 @@
 
 PolSAR classification / segmentation using complex-valued neural networks.
 
+## Cite
+
+To cite the code please use Zenodo:
+
+"J Agustin Barrachina. (2022). NEGU93/polsar_cvnn: Antology of CVNN for PolSAR applications (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5821229"
+
+``` 
+@software{j_agustin_barrachina_2022_5821229,
+  author       = {J Agustin Barrachina},
+  title        = {{NEGU93/polsar\_cvnn: Antology of CVNN for PolSAR 
+                   applications}},
+  month        = jan,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.5821229},
+  url          = {https://doi.org/10.5281/zenodo.5821229}
+}
+```
+
 ## Code usage
 
 1. Install all dependencies including [cvnn](https://pypi.org/project/cvnn/).
